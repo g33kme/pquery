@@ -1,0 +1,21 @@
+{
+    "name": "g33kme/pquery",
+    "description": "PQuery is a simple PHP Wrapper for HTML/jQuery AJAX forms and AJAX links. Easy to use in your HTML views or templates.",
+    "keywords": [ "pquery", "ajax", "form", "ajax form", "ajax link", "jquery", "jquery ajax", "php ajax", "php", "ajax content", "ajax request"],
+    "homepage": "https://geekme.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Geekme",
+            "homepage": "https://geekme.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "g33kme\\pquery\\": "source/"
+        }
+    }
+}
