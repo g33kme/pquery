@@ -5,7 +5,7 @@ namespace g33kme\pquery;
 class PQUERY {
 
     /**
-     * Let's construct!
+     * Let's construct! 
      */
     public function __construct() {
 

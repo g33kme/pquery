@@ -4,7 +4,7 @@ PQuery is a simple PHP Wrapper for HTML/jQuery AJAX forms and links. Easy to use
 You can also use PQuery for HTML Forms and Links to update content on your loaded page via AJAX. You can simply inject content with 
 forms and links to your HTML content.
 
-You can also use PQuery as server side form validator.
+You can also use PQuery as server side form validator. 
 
 
 ## 1. Installation: PQuery
@@ -18,7 +18,7 @@ composer require g33kme/pquery
 You can also simply manually include `source/pquery.php` from this repository to your project and use the PQuery PHP Class.
 
 ```php
-include('path/to/my/pquery.php');
+include('path/to/my/pquery.php'); 
 ```
 
 ## Requirements
